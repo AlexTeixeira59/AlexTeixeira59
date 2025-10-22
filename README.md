@@ -15,7 +15,6 @@
 Estou desenvolvendo soluções em Python, Django e SQL e, em breve, compartilharei meus trabalhos por aqui.  
 
 
-### 🐍 Linguagem que uso:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 </p>
