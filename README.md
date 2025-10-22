@@ -22,16 +22,13 @@ Estou desenvolvendo soluções em **Python**, **Django** e **SQL**, e em breve c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="90" height="90" />
 </p>
 
----
 
-### 🌐 Onde me encontrar
+
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-teixeira-ti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
 </p>
