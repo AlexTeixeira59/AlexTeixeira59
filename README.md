@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Alex Teixeira</h1>
+<h1 align="center"> Olá! Eu sou o Alex Teixeira</h1>
 
 <p align="center">
 💻 Analista de Suporte de TI em transição para Desenvolvedor Python
