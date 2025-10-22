@@ -34,6 +34,5 @@ Estou desenvolvendo soluções em **Python**, **Django** e **SQL**, e em breve c
 ---
 
 <p align="center">
-✨ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! ✨
 </p>
 
