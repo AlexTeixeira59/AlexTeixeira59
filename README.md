@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Alex Teixeira
+#  Olá! Eu sou Alex Teixeira
 
 🎯 Analista de Suporte de TI em transição para Desenvolvedor Python
 
