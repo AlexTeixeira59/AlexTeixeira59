@@ -1,28 +1,31 @@
-<h1 align="center"> Olá! Eu sou o Alex Teixeira</h1>
+<h1 align="center">Olá! Eu sou o Alex Teixeira</h1>
 
 <p align="center">
-💻 Analista de Suporte de TI em transição para Desenvolvedor Python
+💻 Analista de Suporte de TI em transição para Automação e Programação
 </p>
 
 ---
 
 ### 🎯 Sobre mim
-- 🐍 Foco em automação de tarefas com **Python**
-- 🌐 Estudando desenvolvimento web com **Django**
-- 🧩 Aprendendo sobre **bancos de dados relacionais e SQL**
-- 🚀 Sempre aplicando novos conhecimentos em **projetos práticos**
+- 🖥️ Foco em **automação de tarefas e rotinas** com **Shell Script (Bash)**
+- 🐍 Iniciando meus estudos em **Python**, aplicando no dia a dia de TI
+- ⚙️ Criação de scripts para **otimização de processos**, suporte e administração de sistemas
+- 🚀 Sempre colocando novos aprendizados em **scripts e projetos práticos**
 
 ---
 
-### 🔭 Acompanhe meus futuros projetos
-Estou desenvolvendo soluções em **Python**, **Django** e **SQL**, e em breve compartilharei meus trabalhos por aqui!  
+### 🔭 Projetos e estudos
+Atualmente estou desenvolvendo e organizando projetos voltados para:
+- Automação de tarefas em ambientes Linux
+- Scripts Bash para suporte e manutenção
+- Primeiros projetos em Python focados em automação
+
+Em breve estarei compartilhando tudo por aqui!
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="90" height="90" />
 </p>
-
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-teixeira-ti" target="_blank">
@@ -30,6 +33,4 @@ Estou desenvolvendo soluções em **Python**, **Django** e **SQL**, e em breve c
   </a>
 </p>
 
-<p align="center">
-</p>
 
