@@ -1,89 +1,91 @@
 <h1 align="center">Olá, eu sou o Alex Teixeira! 👋</h1>
 
 <p align="center">
-  <b>DevOps | Automação de Infraestrutura & Sistemas | Bacharel em Ciência da Computação</b>
+  <b>Desenvolvedor Backend Python Júnior | Django | FastAPI | APIs REST</b>
 </p>
 
 <p align="center">
-  Formado em Ciência da Computação, atuo na ponte entre desenvolvimento e infraestrutura.<br>
-  Uso Python para automatizar processos, orquestrar sistemas e eliminar trabalho manual repetitivo —<br>
-  de scripts PowerShell elevados e integração com Active Directory a containers com Docker.<br>
-  Estudo cloud (AWS) por conta própria, aplicando em projetos pessoais o que aprendo na prática do dia a dia.
+  Profissional em transição da área de suporte de TI para desenvolvimento backend.<br>
+  Estou construindo projetos com Python, Django, FastAPI, PostgreSQL e testes automatizados.<br>
+  Minha experiência com suporte, automação e infraestrutura complementa minha formação como desenvolvedor.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
 
-### 🛠️ Stack Técnica
+### 👨‍💻 Sobre mim
 
-**Automação & Scripting**
+- 🎓 Bacharel em Ciência da Computação
+- 🐍 Focado em desenvolvimento backend com Python
+- 🌐 Estudando Django, Django REST Framework e FastAPI
+- 🗄️ Aprimorando conhecimentos em APIs REST, SQL e PostgreSQL
+- 🧪 Praticando testes automatizados com Pytest
+- 🔧 Experiência profissional com suporte de TI e automação de processos
+- 🎯 Buscando uma oportunidade como Desenvolvedor Backend Python Júnior
+
+---
+
+### 🛠️ Tecnologias em aprendizado e prática
+
+**Backend**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Cloud — AWS (em estudo, projetos pessoais)**
+**Banco de dados**
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![boto3](https://img.shields.io/badge/-boto3-232F3E?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Infraestrutura & Sistemas Operacionais**
+**Qualidade e ferramentas**
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Servidores Web**
-
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![IIS](https://img.shields.io/badge/-IIS-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Containers & Versionamento**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🔧 O que eu faço
+### 🚀 O que estou desenvolvendo
 
-- **Automação de Infraestrutura** — scripts Python que orquestram PowerShell elevado para gerenciar Active Directory, DNS, políticas de grupo, serviços do Windows e instalação remota de recursos, com captura de saída real e tratamento de erro robusto.
-- **Integração de Sistemas** — automação via COM (`win32com`/`pythoncom`) para sistemas corporativos como Outlook/Office, eliminando processos manuais repetitivos em escala.
-- **Containers & Deploy** — uso Docker para empacotar e distribuir aplicações de forma consistente entre ambientes.
-- **Servidores Web** — configuração e manutenção de Nginx, Apache e IIS para hospedar aplicações e serviços.
-- **Fundamentos sólidos** — formação em Ciência da Computação aplicada a lógica de sistemas, estruturas de dados e boas práticas de engenharia.
+- APIs REST com autenticação, validação e documentação
+- Aplicações web com Django e Django REST Framework
+- Serviços backend com FastAPI
+- Integração com bancos de dados relacionais
+- Testes automatizados e organização de projetos Python
+- Conteinerização básica com Docker
 
-### ☁️ Aprendizado Autodidata (projetos pessoais)
+---
 
-- **AWS** — pratiquei deploy de aplicações em **EC2**, armazenamento com **S3** e bancos de dados gerenciados com **RDS**, automatizando esses fluxos com **boto3** (SDK Python da AWS) em projetos pessoais. Ainda sem uso em ambiente profissional — é minha frente ativa de estudo.
+### 💡 Experiência que trago comigo
 
-### 🎯 Objetivos & Próximos Passos
+Minha trajetória em suporte de TI me ajudou a desenvolver capacidade de investigação, resolução de problemas, documentação técnica e contato com ambientes corporativos. Também possuo experiência com automações em Python e PowerShell, além de conhecimentos em Linux, Docker e Git.
 
-- ⚙️ Aprofundar **CI/CD** com GitHub Actions, automatizando build, teste e deploy para AWS
-- 🐳 Evoluir de Docker isolado para **orquestração** (Docker Compose / Kubernetes / ECS)
-- 📊 Aprender monitoramento e observabilidade (**CloudWatch, Prometheus/Grafana**)
-- 🧩 Explorar Infraestrutura como Código (**Terraform**) para provisionar recursos AWS
-- 🗄️ Aprofundar modelagem e otimização de bancos gerenciados (**RDS/SQL**)
+Uso essa base como diferencial enquanto evoluo no desenvolvimento de aplicações backend.
+
+---
+
+### 📚 Próximos passos
+
+- Criar projetos completos com Django e FastAPI
+- Aprofundar modelagem de dados com PostgreSQL
+- Evoluir em autenticação, permissões e segurança de APIs
+- Aumentar a cobertura de testes automatizados
+- Aprender boas práticas de deploy e CI/CD para aplicações Python
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexteixeira59&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexteixeira59&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
 </p>
-
----
 
 <p align="center">
   📍 São Paulo, SP &nbsp;|&nbsp;
